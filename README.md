@@ -3,7 +3,9 @@ This project uses Support Vector Machine (SVM) to predict the Pass/Fail outcome 
 
 Key Features:
 Data Preprocessing: Includes handling categorical data, outlier detection, and feature standardization.
+
 SVM Model: Implemented using the SVC(kernel='poly', class_weight='balanced') to classify outcomes.
+
 3D Data Visualization: Created with Plotly to visualize feature separability and the effectiveness of the model.
 
 Results:
